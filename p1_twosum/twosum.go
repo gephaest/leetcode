@@ -1,4 +1,4 @@
-package p01_twosum
+package p1_twosum
 
 // res := twoSum([]int{-3,4,3,90}, 0)
 // [0,2]

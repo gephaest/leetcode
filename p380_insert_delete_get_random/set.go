@@ -1,4 +1,4 @@
-package p380_InsertDeleteGetRandom
+package p380_insert_delete_get_random
 
 import "math/rand"
 

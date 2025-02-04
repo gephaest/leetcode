@@ -1,4 +1,4 @@
-package p189rotatearray
+package p189_rotate_array
 
 import (
 	"fmt"

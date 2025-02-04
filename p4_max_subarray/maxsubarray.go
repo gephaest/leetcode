@@ -1,4 +1,4 @@
-package p4_maxsubarray
+package p4_max_subarray
 
 import "math"
 

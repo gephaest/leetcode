@@ -1,4 +1,4 @@
-package p28_firstoccur
+package p28_first_occur
 
 import (
 	"fmt"
